@@ -70,7 +70,6 @@ require("lazy").setup({
 
   -- Git related plugins
   "tpope/vim-fugitive",
-  "ThePrimeagen/vim-be-good",
   "tpope/vim-rhubarb",
   "ThePrimeagen/harpoon",
   "mbbill/undotree",
